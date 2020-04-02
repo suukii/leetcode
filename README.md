@@ -8,6 +8,7 @@
 * [35.Search_Insert_Position](https://github.com/suukii/leetcode/blob/master/problems/35.Search-Insert-Position.md)
 * [69.Sqrt(x)](https://github.com/suukii/leetcode/blob/master/problems/69.Sqrt(x).md)
 * [167.Two_Sum_II_Input_array_is_sorted](https://github.com/suukii/leetcode/blob/master/problems/167.Two_Sum_II_Input_array_is_sorted.md)
+* [278.First_Bad_Version](https://github.com/suukii/leetcode/blob/master/problems/278.First_Bad_Version.md)
 
 动态规划
 * [53.Maximum_Subarray](https://github.com/suukii/leetcode/blob/master/problems/53.Maximum_Subarray.md)
