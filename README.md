@@ -10,6 +10,7 @@
 * [167.Two_Sum_II_Input_array_is_sorted](https://github.com/suukii/leetcode/blob/master/problems/167.Two_Sum_II_Input_array_is_sorted.md)
 * [278.First_Bad_Version](https://github.com/suukii/leetcode/blob/master/problems/278.First_Bad_Version.md)
 * [349.Intersection_Of_Two_Arrays](https://github.com/suukii/leetcode/blob/master/problems/349.Intersection_Of_Two_Arrays.md)
+* [367.Perfect_Valid_Square](https://github.com/suukii/leetcode/blob/master/problems/367.Perfect_Valid_Square.md)
 
 动态规划
 * [53.Maximum_Subarray](https://github.com/suukii/leetcode/blob/master/problems/53.Maximum_Subarray.md)
