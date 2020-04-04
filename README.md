@@ -14,6 +14,7 @@
 * [374.Guess_Number_Higher_Or_Lower](https://github.com/suukii/leetcode/blob/master/problems/374.Guess_Number_Higher_Or_Lower.md)
 * [392.Is_Subsequence](https://github.com/suukii/leetcode/blob/master/problems/392.Is_Subsequence.md)
 * [441.Arranging_Coins](https://github.com/suukii/leetcode/blob/master/problems/441.Arranging_Coins.md)
+* [475.Heaters](https://github.com/suukii/leetcode/blob/master/problems/475.Heaters.md)
 
 动态规划
 * [53.Maximum_Subarray](https://github.com/suukii/leetcode/blob/master/problems/53.Maximum_Subarray.md)
