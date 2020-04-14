@@ -30,3 +30,8 @@
 * [26.Remove_Duplicates_from_Sorted_Array](https://github.com/suukii/leetcode/blob/master/problems/26.Remove-Duplicates-from-Sorted-Array.md)
 * [83.Remove_Duplicates_from_Sorted_List](https://github.com/suukii/leetcode/blob/master/problems/83.Remove-Duplicates-from-Sorted-List.md)
 * [350.Intersection_Of_Two_Arrays_II](https://github.com/suukii/leetcode/blob/master/problems/350.Intersection_Of_Two_Arrays_II.md)
+
+### 中等难度
+
+回溯算法
+* [79.Word_Search](https://github.com/suukii/leetcode/blob/master/problems/79.Word_Search.md)
