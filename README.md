@@ -35,3 +35,6 @@
 
 回溯算法
 * [79.Word_Search](https://github.com/suukii/leetcode/blob/master/problems/79.Word_Search.md)
+
+动态规划
+* [688.Knight_Probability_In_Chessboard](https://github.com/suukii/leetcode/blob/master/problems/688.Knight_Probability_In_Chessboard.md)
