@@ -26,6 +26,7 @@
 
 回溯算法
 * [401.Binary_Watch](https://github.com/suukii/leetcode/blob/master/problems/401.Binary_Watch.md)
+* [784.Letter_Case_Permutation](https://github.com/suukii/leetcode/blob/master/problems/784.Letter_Case_Permutation.md)
 
 其他
 * [20.Valid_Parenthese](https://github.com/suukii/leetcode/blob/master/problems/20.Valid_Parenthese.md)
