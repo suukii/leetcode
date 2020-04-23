@@ -2,6 +2,8 @@
 
 ## 传送门
 
+link to [gitbook](https://suki.gitbook.io/leetcode/)
+
 ### 简单难度
 
 二分查找
