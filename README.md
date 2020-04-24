@@ -47,7 +47,10 @@ link to [gitbook](https://suki.gitbook.io/leetcode/)
 ## DFS 深度优先搜索
 
 【Medium】
+* [94.Binary_Tree_Inorder_Traversal](https://github.com/suukii/leetcode/blob/master/problems/94.Binary_Tree_Inorder_Traversal.md)
 * [144.Binary_Tree_Preorder_Taversal](https://github.com/suukii/leetcode/blob/master/problems/144.Binary_Tree_Preorder_Taversal.md)
+
+【Hard】
 * [145.Binary_Tree_Postorder_Traversal](https://github.com/suukii/leetcode/blob/master/problems/145.Binary_Tree_Postorder_Traversal.md)
 
 ## 其他
