@@ -41,7 +41,6 @@ link to [gitbook](https://suki.gitbook.io/leetcode/)
 * [17.Letter_Combinations_Of_A_Phone_Number](https://github.com/suukii/leetcode/blob/master/problems/17.Letter_Combinations_Of_A_Phone_Number.md)
 * [46.Permutation](https://github.com/suukii/leetcode/blob/master/problems/46.Permutation.md)
 * [79.Word_Search](https://github.com/suukii/leetcode/blob/master/problems/79.Word_Search.md)
-* [200.Number_Of_Islands](https://github.com/suukii/leetcode/blob/master/problems/200.Number_Of_Islands.md)
 
 
 ## DFS 深度优先搜索
@@ -49,6 +48,7 @@ link to [gitbook](https://suki.gitbook.io/leetcode/)
 【Medium】
 * [94.Binary_Tree_Inorder_Traversal](https://github.com/suukii/leetcode/blob/master/problems/94.Binary_Tree_Inorder_Traversal.md)
 * [144.Binary_Tree_Preorder_Taversal](https://github.com/suukii/leetcode/blob/master/problems/144.Binary_Tree_Preorder_Taversal.md)
+* [200.Number_Of_Islands](https://github.com/suukii/leetcode/blob/master/problems/200.Number_Of_Islands.md)
 
 【Hard】
 * [145.Binary_Tree_Postorder_Traversal](https://github.com/suukii/leetcode/blob/master/problems/145.Binary_Tree_Postorder_Traversal.md)
