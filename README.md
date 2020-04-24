@@ -41,6 +41,7 @@ link to [gitbook](https://suki.gitbook.io/leetcode/)
 
 回溯算法
 * [17.Letter_Combinations_Of_A_Phone_Number](https://github.com/suukii/leetcode/blob/master/problems/17.Letter_Combinations_Of_A_Phone_Number.md)
+* [46.Permutation](https://github.com/suukii/leetcode/blob/master/problems/46.Permutation.md)
 * [79.Word_Search](https://github.com/suukii/leetcode/blob/master/problems/79.Word_Search.md)
 * [200.Number_Of_Islands](https://github.com/suukii/leetcode/blob/master/problems/200.Number_Of_Islands.md)
 
