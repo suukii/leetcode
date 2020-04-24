@@ -47,3 +47,6 @@ link to [gitbook](https://suki.gitbook.io/leetcode/)
 
 动态规划
 * [688.Knight_Probability_In_Chessboard](https://github.com/suukii/leetcode/blob/master/problems/688.Knight_Probability_In_Chessboard.md)
+
+DFS 深度优先搜索
+* [144.Binary_Tree_Preorder_Taversal](https://github.com/suukii/leetcode/blob/master/problems/144.Binary_Tree_Preorder_Taversal.md)
