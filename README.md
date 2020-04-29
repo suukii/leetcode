@@ -19,6 +19,9 @@ link to [gitbook](https://suki.gitbook.io/leetcode/)
 * [744.Find_Smallest_Letter_Greater_Than_Target](https://github.com/suukii/leetcode/blob/master/problems/744.Find_Smallest_Letter_Greater_Than_Target.md)
 * [852.Peek_Index_In_A_Mountain_Array](https://github.com/suukii/leetcode/blob/master/problems/852.Peek_Index_In_A_Mountain_Array.md)
 
+【Hard】
+* [1095.Find_In_Mountain_Array](https://github.com/suukii/leetcode/blob/master/problems/1095.Find_In_Mountain_Array.md)
+
 
 ## 动态规划
 
