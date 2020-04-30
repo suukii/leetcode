@@ -56,6 +56,7 @@ link to [gitbook](https://suki.gitbook.io/leetcode/)
 * [144.Binary_Tree_Preorder_Taversal](https://github.com/suukii/leetcode/blob/master/problems/144.Binary_Tree_Preorder_Taversal.md)
 * [200.Number_Of_Islands](https://github.com/suukii/leetcode/blob/master/problems/200.Number_Of_Islands.md)
 * [547.Friend_Circles](https://github.com/suukii/leetcode/blob/master/problems/547.Friend_Circles.md)
+* [1034.Coloring_A_Border](https://github.com/suukii/leetcode/blob/master/problems/1034.Coloring_A_Border.md)
 
 【Hard】
 * [145.Binary_Tree_Postorder_Traversal](https://github.com/suukii/leetcode/blob/master/problems/145.Binary_Tree_Postorder_Traversal.md)
